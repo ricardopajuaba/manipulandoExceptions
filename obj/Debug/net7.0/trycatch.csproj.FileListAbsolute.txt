@@ -1,0 +1,15 @@
+C:\estudoscsharp\exceptions\trycatch\bin\Debug\net7.0\trycatch.exe
+C:\estudoscsharp\exceptions\trycatch\bin\Debug\net7.0\trycatch.deps.json
+C:\estudoscsharp\exceptions\trycatch\bin\Debug\net7.0\trycatch.runtimeconfig.json
+C:\estudoscsharp\exceptions\trycatch\bin\Debug\net7.0\trycatch.dll
+C:\estudoscsharp\exceptions\trycatch\bin\Debug\net7.0\trycatch.pdb
+C:\estudoscsharp\exceptions\trycatch\obj\Debug\net7.0\trycatch.csproj.AssemblyReference.cache
+C:\estudoscsharp\exceptions\trycatch\obj\Debug\net7.0\trycatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudoscsharp\exceptions\trycatch\obj\Debug\net7.0\trycatch.AssemblyInfoInputs.cache
+C:\estudoscsharp\exceptions\trycatch\obj\Debug\net7.0\trycatch.AssemblyInfo.cs
+C:\estudoscsharp\exceptions\trycatch\obj\Debug\net7.0\trycatch.csproj.CoreCompileInputs.cache
+C:\estudoscsharp\exceptions\trycatch\obj\Debug\net7.0\trycatch.dll
+C:\estudoscsharp\exceptions\trycatch\obj\Debug\net7.0\refint\trycatch.dll
+C:\estudoscsharp\exceptions\trycatch\obj\Debug\net7.0\trycatch.pdb
+C:\estudoscsharp\exceptions\trycatch\obj\Debug\net7.0\trycatch.genruntimeconfig.cache
+C:\estudoscsharp\exceptions\trycatch\obj\Debug\net7.0\ref\trycatch.dll
