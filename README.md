@@ -23,5 +23,5 @@ Exception: exceção genérica que captura todas as exceções não tratadas pel
 
 ## Tecnologia utilizada:
 
-* [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/): linguagem de programação
+* [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/): linguagem de programação 
 
